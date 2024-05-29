@@ -110,4 +110,3 @@ dependencies:
       - wandb==0.15.10
       - xxhash==3.3.0
       - yarl==1.9.2
-prefix: /ext3/miniconda3/envs/alpaca_farm
