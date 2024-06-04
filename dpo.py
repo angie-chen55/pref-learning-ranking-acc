@@ -1,3 +1,4 @@
+# Adapted from https://github.com/huggingface/trl/blob/main/examples/research_projects/stack_llama_2/scripts/dpo_llama2.py
 # 0. imports
 from dataclasses import dataclass, field
 from typing import Dict, Optional
