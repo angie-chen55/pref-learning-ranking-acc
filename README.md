@@ -1,7 +1,7 @@
 # Preference Learning Algorithms Do Not Learn Preference Rankings
-This is the repository for the paper "Preference Learning Algorithms Do Not Learn Preference Rankings," by Angelica Chen, Sadhika Malladi, Lily H. Zhang, Xinyi Chen, Qiuyi Zhang, Rajesh Ranganath, and Kyunghyun Cho.
+This is the repository for the paper "[Preference Learning Algorithms Do Not Learn Preference Rankings](https://arxiv.org/abs/2405.19534)," by Angelica Chen, Sadhika Malladi, Lily H. Zhang, Xinyi Chen, Qiuyi Zhang, Rajesh Ranganath, and Kyunghyun Cho.
 
-A draft of our paper can be found [here](pref_learning_algs_do_not_learn_pref_rankings.pdf).
+A draft of our paper can be found [in this repo](pref_learning_algs_do_not_learn_pref_rankings.pdf) and [on Arxiv](https://arxiv.org/abs/2405.19534).
 
 ## Set-Up
 We have separate conda environments for each type of experiment.
